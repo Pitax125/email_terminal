@@ -38,6 +38,16 @@
             "<img src=config/network/localhost/mechanicus.png class=particle data-particules=200>"
         ]
     },
+    "message4.txt": {
+        "protection": ["D3ri0n"],
+        "help": "Drogi Dorianie",
+        "clear": true,
+        "message": [
+            "<p class=desync>Gubernator Alexiv Traxis IV</p>",
+            "<p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=0 data-preserve-spaces=true>Dorianie, proszę przyjdź do mnie za 7 dni licząc od dzisiaj. To sprawy planetarne. Zachowaj dyskrecję. Dziękuję.</p>",
+            "<img src=config/network/localhost/mechanicus.png class=particle data-particules=10>"
+        ]
+    },
     "demo.exe": {
         "help": "Demonstrate some rendering features",
         "clear": true,
