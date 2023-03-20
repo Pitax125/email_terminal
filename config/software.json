@@ -1,8 +1,8 @@
 {
     "message1.txt": {
+        "protection": ["Aug5tiu5"],
         "help": "Drogi Augustiusie",
         "clear": true,
-        "protection": ["Aug5tiu5"],
         "message": [
             "<p class=glow style='font-size: 3em'>⚠ WARNING ⚠</p>",
             "<p class=desync>SHADY TROUBLING MESSAGE</p>",
@@ -13,9 +13,9 @@
         ]
     },
     "message2.txt": {
+        "protection": ["W0fw0lf3"],
         "help": "Drogi Wolfe",
         "clear": true,
-        "protection": ["W0fw0lf3"],
         "message": [
             "<p class=glow style='font-size: 3em'>⚠ WARNING ⚠</p>",
             "<p class=desync>SHADY TROUBLING MESSAGE</p>",
@@ -26,9 +26,9 @@
         ]
     },
     "message3.txt": {
+        "protection": ["V3333n"],
         "help": "Droga Ven",
         "clear": true,
-        "protection": ["V3333n"],
         "message": [
             "<p class=glow style='font-size: 3em'>⚠ WARNING ⚠</p>",
             "<p class=desync>SHADY TROUBLING MESSAGE</p>",
