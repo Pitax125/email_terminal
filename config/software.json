@@ -40,6 +40,7 @@
     },
     "message4.txt": {
         "protection": ["D3ri0n"],
+        "location": ["279.1.156.15"],
         "help": "Drogi Dorianie",
         "clear": true,
         "message": [
